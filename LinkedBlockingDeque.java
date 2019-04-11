@@ -10,8 +10,7 @@ public class GFG {
   
         // create object of LinkedBlockingDeque 
         // using LinkedBlockingDeque() constructor 
-        LinkedBlockingDeque<Integer> LBD 
-            = new LinkedBlockingDeque<Integer>(); 
+        LinkedBlockingDeque<Integer> LBD  = new LinkedBlockingDeque<Integer>(); 
   
         // Add numbers to end of LinkedBlockingDeque 
         LBD.add(7855642); 
@@ -25,8 +24,7 @@ public class GFG {
   
         // create object of LinkedBlockingDeque 
         // using LinkedBlockingDeque(int capacity) constructor 
-        LinkedBlockingDeque<Integer> LBD1 
-            = new LinkedBlockingDeque<Integer>(3); 
+        LinkedBlockingDeque<Integer> LBD1 = new LinkedBlockingDeque<Integer>(3); 
   
         // Add numbers to end of LinkedBlockingDeque 
         LBD1.add(7855642); 
